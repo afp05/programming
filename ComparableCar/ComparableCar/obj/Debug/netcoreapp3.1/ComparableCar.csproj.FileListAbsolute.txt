@@ -1,0 +1,13 @@
+C:\Users\Rocket\source\repos\ComparableCar\ComparableCar\obj\Debug\netcoreapp3.1\ComparableCar.csprojAssemblyReference.cache
+C:\Users\Rocket\source\repos\ComparableCar\ComparableCar\obj\Debug\netcoreapp3.1\ComparableCar.AssemblyInfoInputs.cache
+C:\Users\Rocket\source\repos\ComparableCar\ComparableCar\obj\Debug\netcoreapp3.1\ComparableCar.AssemblyInfo.cs
+C:\Users\Rocket\source\repos\ComparableCar\ComparableCar\obj\Debug\netcoreapp3.1\ComparableCar.csproj.CoreCompileInputs.cache
+C:\Users\Rocket\source\repos\ComparableCar\ComparableCar\bin\Debug\netcoreapp3.1\ComparableCar.exe
+C:\Users\Rocket\source\repos\ComparableCar\ComparableCar\bin\Debug\netcoreapp3.1\ComparableCar.deps.json
+C:\Users\Rocket\source\repos\ComparableCar\ComparableCar\bin\Debug\netcoreapp3.1\ComparableCar.runtimeconfig.json
+C:\Users\Rocket\source\repos\ComparableCar\ComparableCar\bin\Debug\netcoreapp3.1\ComparableCar.runtimeconfig.dev.json
+C:\Users\Rocket\source\repos\ComparableCar\ComparableCar\bin\Debug\netcoreapp3.1\ComparableCar.dll
+C:\Users\Rocket\source\repos\ComparableCar\ComparableCar\bin\Debug\netcoreapp3.1\ComparableCar.pdb
+C:\Users\Rocket\source\repos\ComparableCar\ComparableCar\obj\Debug\netcoreapp3.1\ComparableCar.dll
+C:\Users\Rocket\source\repos\ComparableCar\ComparableCar\obj\Debug\netcoreapp3.1\ComparableCar.pdb
+C:\Users\Rocket\source\repos\ComparableCar\ComparableCar\obj\Debug\netcoreapp3.1\ComparableCar.genruntimeconfig.cache

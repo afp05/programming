@@ -1,0 +1,13 @@
+C:\Users\Rocket\source\repos\ClonablePoint\ClonablePoint\bin\Debug\netcoreapp3.1\ClonablePoint.exe
+C:\Users\Rocket\source\repos\ClonablePoint\ClonablePoint\bin\Debug\netcoreapp3.1\ClonablePoint.deps.json
+C:\Users\Rocket\source\repos\ClonablePoint\ClonablePoint\bin\Debug\netcoreapp3.1\ClonablePoint.runtimeconfig.json
+C:\Users\Rocket\source\repos\ClonablePoint\ClonablePoint\bin\Debug\netcoreapp3.1\ClonablePoint.runtimeconfig.dev.json
+C:\Users\Rocket\source\repos\ClonablePoint\ClonablePoint\bin\Debug\netcoreapp3.1\ClonablePoint.dll
+C:\Users\Rocket\source\repos\ClonablePoint\ClonablePoint\bin\Debug\netcoreapp3.1\ClonablePoint.pdb
+C:\Users\Rocket\source\repos\ClonablePoint\ClonablePoint\obj\Debug\netcoreapp3.1\ClonablePoint.csprojAssemblyReference.cache
+C:\Users\Rocket\source\repos\ClonablePoint\ClonablePoint\obj\Debug\netcoreapp3.1\ClonablePoint.AssemblyInfoInputs.cache
+C:\Users\Rocket\source\repos\ClonablePoint\ClonablePoint\obj\Debug\netcoreapp3.1\ClonablePoint.AssemblyInfo.cs
+C:\Users\Rocket\source\repos\ClonablePoint\ClonablePoint\obj\Debug\netcoreapp3.1\ClonablePoint.csproj.CoreCompileInputs.cache
+C:\Users\Rocket\source\repos\ClonablePoint\ClonablePoint\obj\Debug\netcoreapp3.1\ClonablePoint.dll
+C:\Users\Rocket\source\repos\ClonablePoint\ClonablePoint\obj\Debug\netcoreapp3.1\ClonablePoint.pdb
+C:\Users\Rocket\source\repos\ClonablePoint\ClonablePoint\obj\Debug\netcoreapp3.1\ClonablePoint.genruntimeconfig.cache
