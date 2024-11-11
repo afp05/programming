@@ -1,0 +1,13 @@
+C:\Users\Rocket\source\repos\ObjectOverrides\ObjectOverrides\obj\Debug\netcoreapp3.1\ObjectOverrides.csprojAssemblyReference.cache
+C:\Users\Rocket\source\repos\ObjectOverrides\ObjectOverrides\obj\Debug\netcoreapp3.1\ObjectOverrides.AssemblyInfoInputs.cache
+C:\Users\Rocket\source\repos\ObjectOverrides\ObjectOverrides\obj\Debug\netcoreapp3.1\ObjectOverrides.AssemblyInfo.cs
+C:\Users\Rocket\source\repos\ObjectOverrides\ObjectOverrides\obj\Debug\netcoreapp3.1\ObjectOverrides.csproj.CoreCompileInputs.cache
+C:\Users\Rocket\source\repos\ObjectOverrides\ObjectOverrides\bin\Debug\netcoreapp3.1\ObjectOverrides.exe
+C:\Users\Rocket\source\repos\ObjectOverrides\ObjectOverrides\bin\Debug\netcoreapp3.1\ObjectOverrides.deps.json
+C:\Users\Rocket\source\repos\ObjectOverrides\ObjectOverrides\bin\Debug\netcoreapp3.1\ObjectOverrides.runtimeconfig.json
+C:\Users\Rocket\source\repos\ObjectOverrides\ObjectOverrides\bin\Debug\netcoreapp3.1\ObjectOverrides.runtimeconfig.dev.json
+C:\Users\Rocket\source\repos\ObjectOverrides\ObjectOverrides\bin\Debug\netcoreapp3.1\ObjectOverrides.dll
+C:\Users\Rocket\source\repos\ObjectOverrides\ObjectOverrides\bin\Debug\netcoreapp3.1\ObjectOverrides.pdb
+C:\Users\Rocket\source\repos\ObjectOverrides\ObjectOverrides\obj\Debug\netcoreapp3.1\ObjectOverrides.dll
+C:\Users\Rocket\source\repos\ObjectOverrides\ObjectOverrides\obj\Debug\netcoreapp3.1\ObjectOverrides.pdb
+C:\Users\Rocket\source\repos\ObjectOverrides\ObjectOverrides\obj\Debug\netcoreapp3.1\ObjectOverrides.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Rocket\source\repos\SHapes\SHapes\bin\Debug\netcoreapp3.1\SHapes.exe
+C:\Users\Rocket\source\repos\SHapes\SHapes\bin\Debug\netcoreapp3.1\SHapes.deps.json
+C:\Users\Rocket\source\repos\SHapes\SHapes\bin\Debug\netcoreapp3.1\SHapes.runtimeconfig.json
+C:\Users\Rocket\source\repos\SHapes\SHapes\bin\Debug\netcoreapp3.1\SHapes.runtimeconfig.dev.json
+C:\Users\Rocket\source\repos\SHapes\SHapes\bin\Debug\netcoreapp3.1\SHapes.dll
+C:\Users\Rocket\source\repos\SHapes\SHapes\bin\Debug\netcoreapp3.1\SHapes.pdb
+C:\Users\Rocket\source\repos\SHapes\SHapes\obj\Debug\netcoreapp3.1\SHapes.csprojAssemblyReference.cache
+C:\Users\Rocket\source\repos\SHapes\SHapes\obj\Debug\netcoreapp3.1\SHapes.AssemblyInfoInputs.cache
+C:\Users\Rocket\source\repos\SHapes\SHapes\obj\Debug\netcoreapp3.1\SHapes.AssemblyInfo.cs
+C:\Users\Rocket\source\repos\SHapes\SHapes\obj\Debug\netcoreapp3.1\SHapes.csproj.CoreCompileInputs.cache
+C:\Users\Rocket\source\repos\SHapes\SHapes\obj\Debug\netcoreapp3.1\SHapes.dll
+C:\Users\Rocket\source\repos\SHapes\SHapes\obj\Debug\netcoreapp3.1\SHapes.pdb
+C:\Users\Rocket\source\repos\SHapes\SHapes\obj\Debug\netcoreapp3.1\SHapes.genruntimeconfig.cache

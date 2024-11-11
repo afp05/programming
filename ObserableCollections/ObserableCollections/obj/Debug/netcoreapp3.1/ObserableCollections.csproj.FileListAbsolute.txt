@@ -1,0 +1,13 @@
+C:\Users\Rocket\source\repos\ObserableCollections\ObserableCollections\bin\Debug\netcoreapp3.1\ObserableCollections.exe
+C:\Users\Rocket\source\repos\ObserableCollections\ObserableCollections\bin\Debug\netcoreapp3.1\ObserableCollections.deps.json
+C:\Users\Rocket\source\repos\ObserableCollections\ObserableCollections\bin\Debug\netcoreapp3.1\ObserableCollections.runtimeconfig.json
+C:\Users\Rocket\source\repos\ObserableCollections\ObserableCollections\bin\Debug\netcoreapp3.1\ObserableCollections.runtimeconfig.dev.json
+C:\Users\Rocket\source\repos\ObserableCollections\ObserableCollections\bin\Debug\netcoreapp3.1\ObserableCollections.dll
+C:\Users\Rocket\source\repos\ObserableCollections\ObserableCollections\bin\Debug\netcoreapp3.1\ObserableCollections.pdb
+C:\Users\Rocket\source\repos\ObserableCollections\ObserableCollections\obj\Debug\netcoreapp3.1\ObserableCollections.csprojAssemblyReference.cache
+C:\Users\Rocket\source\repos\ObserableCollections\ObserableCollections\obj\Debug\netcoreapp3.1\ObserableCollections.AssemblyInfoInputs.cache
+C:\Users\Rocket\source\repos\ObserableCollections\ObserableCollections\obj\Debug\netcoreapp3.1\ObserableCollections.AssemblyInfo.cs
+C:\Users\Rocket\source\repos\ObserableCollections\ObserableCollections\obj\Debug\netcoreapp3.1\ObserableCollections.csproj.CoreCompileInputs.cache
+C:\Users\Rocket\source\repos\ObserableCollections\ObserableCollections\obj\Debug\netcoreapp3.1\ObserableCollections.dll
+C:\Users\Rocket\source\repos\ObserableCollections\ObserableCollections\obj\Debug\netcoreapp3.1\ObserableCollections.pdb
+C:\Users\Rocket\source\repos\ObserableCollections\ObserableCollections\obj\Debug\netcoreapp3.1\ObserableCollections.genruntimeconfig.cache
