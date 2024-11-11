@@ -1,0 +1,13 @@
+C:\Users\Rocket\source\repos\GenerciCollections\GenerciCollections\bin\Debug\netcoreapp3.1\GenerciCollections.exe
+C:\Users\Rocket\source\repos\GenerciCollections\GenerciCollections\bin\Debug\netcoreapp3.1\GenerciCollections.deps.json
+C:\Users\Rocket\source\repos\GenerciCollections\GenerciCollections\bin\Debug\netcoreapp3.1\GenerciCollections.runtimeconfig.json
+C:\Users\Rocket\source\repos\GenerciCollections\GenerciCollections\bin\Debug\netcoreapp3.1\GenerciCollections.runtimeconfig.dev.json
+C:\Users\Rocket\source\repos\GenerciCollections\GenerciCollections\bin\Debug\netcoreapp3.1\GenerciCollections.dll
+C:\Users\Rocket\source\repos\GenerciCollections\GenerciCollections\bin\Debug\netcoreapp3.1\GenerciCollections.pdb
+C:\Users\Rocket\source\repos\GenerciCollections\GenerciCollections\obj\Debug\netcoreapp3.1\GenerciCollections.csprojAssemblyReference.cache
+C:\Users\Rocket\source\repos\GenerciCollections\GenerciCollections\obj\Debug\netcoreapp3.1\GenerciCollections.AssemblyInfoInputs.cache
+C:\Users\Rocket\source\repos\GenerciCollections\GenerciCollections\obj\Debug\netcoreapp3.1\GenerciCollections.AssemblyInfo.cs
+C:\Users\Rocket\source\repos\GenerciCollections\GenerciCollections\obj\Debug\netcoreapp3.1\GenerciCollections.csproj.CoreCompileInputs.cache
+C:\Users\Rocket\source\repos\GenerciCollections\GenerciCollections\obj\Debug\netcoreapp3.1\GenerciCollections.dll
+C:\Users\Rocket\source\repos\GenerciCollections\GenerciCollections\obj\Debug\netcoreapp3.1\GenerciCollections.pdb
+C:\Users\Rocket\source\repos\GenerciCollections\GenerciCollections\obj\Debug\netcoreapp3.1\GenerciCollections.genruntimeconfig.cache

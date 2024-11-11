@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerciCollections", "GenerciCollections\GenerciCollections.csproj", "{F6B6B809-90DE-4AE2-9477-2078C471774B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6B6B809-90DE-4AE2-9477-2078C471774B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B6B809-90DE-4AE2-9477-2078C471774B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B6B809-90DE-4AE2-9477-2078C471774B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B6B809-90DE-4AE2-9477-2078C471774B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDE1246D-1F1E-4B0D-9680-32427DC52E69}
+	EndGlobalSection
+EndGlobal
