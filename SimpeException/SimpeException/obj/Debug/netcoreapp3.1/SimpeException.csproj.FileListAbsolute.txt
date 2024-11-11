@@ -1,0 +1,13 @@
+C:\Users\Rocket\source\repos\SimpeException\SimpeException\bin\Debug\netcoreapp3.1\SimpeException.exe
+C:\Users\Rocket\source\repos\SimpeException\SimpeException\bin\Debug\netcoreapp3.1\SimpeException.deps.json
+C:\Users\Rocket\source\repos\SimpeException\SimpeException\bin\Debug\netcoreapp3.1\SimpeException.runtimeconfig.json
+C:\Users\Rocket\source\repos\SimpeException\SimpeException\bin\Debug\netcoreapp3.1\SimpeException.runtimeconfig.dev.json
+C:\Users\Rocket\source\repos\SimpeException\SimpeException\bin\Debug\netcoreapp3.1\SimpeException.dll
+C:\Users\Rocket\source\repos\SimpeException\SimpeException\bin\Debug\netcoreapp3.1\SimpeException.pdb
+C:\Users\Rocket\source\repos\SimpeException\SimpeException\obj\Debug\netcoreapp3.1\SimpeException.csprojAssemblyReference.cache
+C:\Users\Rocket\source\repos\SimpeException\SimpeException\obj\Debug\netcoreapp3.1\SimpeException.AssemblyInfoInputs.cache
+C:\Users\Rocket\source\repos\SimpeException\SimpeException\obj\Debug\netcoreapp3.1\SimpeException.AssemblyInfo.cs
+C:\Users\Rocket\source\repos\SimpeException\SimpeException\obj\Debug\netcoreapp3.1\SimpeException.csproj.CoreCompileInputs.cache
+C:\Users\Rocket\source\repos\SimpeException\SimpeException\obj\Debug\netcoreapp3.1\SimpeException.dll
+C:\Users\Rocket\source\repos\SimpeException\SimpeException\obj\Debug\netcoreapp3.1\SimpeException.pdb
+C:\Users\Rocket\source\repos\SimpeException\SimpeException\obj\Debug\netcoreapp3.1\SimpeException.genruntimeconfig.cache

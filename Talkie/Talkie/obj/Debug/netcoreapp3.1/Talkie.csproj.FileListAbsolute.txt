@@ -1,0 +1,13 @@
+C:\Users\Rocket\source\repos\Talkie\Talkie\bin\Debug\netcoreapp3.1\Talkie.exe
+C:\Users\Rocket\source\repos\Talkie\Talkie\bin\Debug\netcoreapp3.1\Talkie.deps.json
+C:\Users\Rocket\source\repos\Talkie\Talkie\bin\Debug\netcoreapp3.1\Talkie.runtimeconfig.json
+C:\Users\Rocket\source\repos\Talkie\Talkie\bin\Debug\netcoreapp3.1\Talkie.runtimeconfig.dev.json
+C:\Users\Rocket\source\repos\Talkie\Talkie\bin\Debug\netcoreapp3.1\Talkie.dll
+C:\Users\Rocket\source\repos\Talkie\Talkie\bin\Debug\netcoreapp3.1\Talkie.pdb
+C:\Users\Rocket\source\repos\Talkie\Talkie\obj\Debug\netcoreapp3.1\Talkie.csprojAssemblyReference.cache
+C:\Users\Rocket\source\repos\Talkie\Talkie\obj\Debug\netcoreapp3.1\Talkie.AssemblyInfoInputs.cache
+C:\Users\Rocket\source\repos\Talkie\Talkie\obj\Debug\netcoreapp3.1\Talkie.AssemblyInfo.cs
+C:\Users\Rocket\source\repos\Talkie\Talkie\obj\Debug\netcoreapp3.1\Talkie.csproj.CoreCompileInputs.cache
+C:\Users\Rocket\source\repos\Talkie\Talkie\obj\Debug\netcoreapp3.1\Talkie.dll
+C:\Users\Rocket\source\repos\Talkie\Talkie\obj\Debug\netcoreapp3.1\Talkie.pdb
+C:\Users\Rocket\source\repos\Talkie\Talkie\obj\Debug\netcoreapp3.1\Talkie.genruntimeconfig.cache
