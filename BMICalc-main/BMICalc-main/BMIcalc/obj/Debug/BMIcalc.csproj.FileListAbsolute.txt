@@ -1,0 +1,15 @@
+C:\Users\Komputronik\source\repos\BMIcalc\BMIcalc\bin\Debug\BMIcalc.exe.config
+C:\Users\Komputronik\source\repos\BMIcalc\BMIcalc\bin\Debug\BMIcalc.exe
+C:\Users\Komputronik\source\repos\BMIcalc\BMIcalc\bin\Debug\BMIcalc.pdb
+C:\Users\Komputronik\source\repos\BMIcalc\BMIcalc\obj\Debug\BMIcalc.csprojAssemblyReference.cache
+C:\Users\Komputronik\source\repos\BMIcalc\BMIcalc\obj\Debug\MainWindow.g.cs
+C:\Users\Komputronik\source\repos\BMIcalc\BMIcalc\obj\Debug\App.g.cs
+C:\Users\Komputronik\source\repos\BMIcalc\BMIcalc\obj\Debug\BMIcalc_MarkupCompile.cache
+C:\Users\Komputronik\source\repos\BMIcalc\BMIcalc\obj\Debug\BMIcalc_MarkupCompile.lref
+C:\Users\Komputronik\source\repos\BMIcalc\BMIcalc\obj\Debug\MainWindow.baml
+C:\Users\Komputronik\source\repos\BMIcalc\BMIcalc\obj\Debug\BMIcalc.g.resources
+C:\Users\Komputronik\source\repos\BMIcalc\BMIcalc\obj\Debug\BMIcalc.Properties.Resources.resources
+C:\Users\Komputronik\source\repos\BMIcalc\BMIcalc\obj\Debug\BMIcalc.csproj.GenerateResource.cache
+C:\Users\Komputronik\source\repos\BMIcalc\BMIcalc\obj\Debug\BMIcalc.csproj.CoreCompileInputs.cache
+C:\Users\Komputronik\source\repos\BMIcalc\BMIcalc\obj\Debug\BMIcalc.exe
+C:\Users\Komputronik\source\repos\BMIcalc\BMIcalc\obj\Debug\BMIcalc.pdb
