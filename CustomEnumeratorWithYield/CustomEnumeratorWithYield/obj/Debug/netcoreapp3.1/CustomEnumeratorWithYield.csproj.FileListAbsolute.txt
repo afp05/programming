@@ -1,0 +1,13 @@
+C:\Users\Rocket\source\repos\CustomEnumeratorWithYield\CustomEnumeratorWithYield\obj\Debug\netcoreapp3.1\CustomEnumeratorWithYield.csprojAssemblyReference.cache
+C:\Users\Rocket\source\repos\CustomEnumeratorWithYield\CustomEnumeratorWithYield\obj\Debug\netcoreapp3.1\CustomEnumeratorWithYield.AssemblyInfoInputs.cache
+C:\Users\Rocket\source\repos\CustomEnumeratorWithYield\CustomEnumeratorWithYield\obj\Debug\netcoreapp3.1\CustomEnumeratorWithYield.AssemblyInfo.cs
+C:\Users\Rocket\source\repos\CustomEnumeratorWithYield\CustomEnumeratorWithYield\obj\Debug\netcoreapp3.1\CustomEnumeratorWithYield.csproj.CoreCompileInputs.cache
+C:\Users\Rocket\source\repos\CustomEnumeratorWithYield\CustomEnumeratorWithYield\bin\Debug\netcoreapp3.1\CustomEnumeratorWithYield.exe
+C:\Users\Rocket\source\repos\CustomEnumeratorWithYield\CustomEnumeratorWithYield\bin\Debug\netcoreapp3.1\CustomEnumeratorWithYield.deps.json
+C:\Users\Rocket\source\repos\CustomEnumeratorWithYield\CustomEnumeratorWithYield\bin\Debug\netcoreapp3.1\CustomEnumeratorWithYield.runtimeconfig.json
+C:\Users\Rocket\source\repos\CustomEnumeratorWithYield\CustomEnumeratorWithYield\bin\Debug\netcoreapp3.1\CustomEnumeratorWithYield.runtimeconfig.dev.json
+C:\Users\Rocket\source\repos\CustomEnumeratorWithYield\CustomEnumeratorWithYield\bin\Debug\netcoreapp3.1\CustomEnumeratorWithYield.dll
+C:\Users\Rocket\source\repos\CustomEnumeratorWithYield\CustomEnumeratorWithYield\bin\Debug\netcoreapp3.1\CustomEnumeratorWithYield.pdb
+C:\Users\Rocket\source\repos\CustomEnumeratorWithYield\CustomEnumeratorWithYield\obj\Debug\netcoreapp3.1\CustomEnumeratorWithYield.dll
+C:\Users\Rocket\source\repos\CustomEnumeratorWithYield\CustomEnumeratorWithYield\obj\Debug\netcoreapp3.1\CustomEnumeratorWithYield.pdb
+C:\Users\Rocket\source\repos\CustomEnumeratorWithYield\CustomEnumeratorWithYield\obj\Debug\netcoreapp3.1\CustomEnumeratorWithYield.genruntimeconfig.cache

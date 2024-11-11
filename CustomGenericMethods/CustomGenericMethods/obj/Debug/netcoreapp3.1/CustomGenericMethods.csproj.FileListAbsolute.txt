@@ -1,0 +1,13 @@
+C:\Users\Rocket\source\repos\CustomGenericMethods\CustomGenericMethods\bin\Debug\netcoreapp3.1\CustomGenericMethods.exe
+C:\Users\Rocket\source\repos\CustomGenericMethods\CustomGenericMethods\bin\Debug\netcoreapp3.1\CustomGenericMethods.deps.json
+C:\Users\Rocket\source\repos\CustomGenericMethods\CustomGenericMethods\bin\Debug\netcoreapp3.1\CustomGenericMethods.runtimeconfig.json
+C:\Users\Rocket\source\repos\CustomGenericMethods\CustomGenericMethods\bin\Debug\netcoreapp3.1\CustomGenericMethods.runtimeconfig.dev.json
+C:\Users\Rocket\source\repos\CustomGenericMethods\CustomGenericMethods\bin\Debug\netcoreapp3.1\CustomGenericMethods.dll
+C:\Users\Rocket\source\repos\CustomGenericMethods\CustomGenericMethods\bin\Debug\netcoreapp3.1\CustomGenericMethods.pdb
+C:\Users\Rocket\source\repos\CustomGenericMethods\CustomGenericMethods\obj\Debug\netcoreapp3.1\CustomGenericMethods.csprojAssemblyReference.cache
+C:\Users\Rocket\source\repos\CustomGenericMethods\CustomGenericMethods\obj\Debug\netcoreapp3.1\CustomGenericMethods.AssemblyInfoInputs.cache
+C:\Users\Rocket\source\repos\CustomGenericMethods\CustomGenericMethods\obj\Debug\netcoreapp3.1\CustomGenericMethods.AssemblyInfo.cs
+C:\Users\Rocket\source\repos\CustomGenericMethods\CustomGenericMethods\obj\Debug\netcoreapp3.1\CustomGenericMethods.csproj.CoreCompileInputs.cache
+C:\Users\Rocket\source\repos\CustomGenericMethods\CustomGenericMethods\obj\Debug\netcoreapp3.1\CustomGenericMethods.dll
+C:\Users\Rocket\source\repos\CustomGenericMethods\CustomGenericMethods\obj\Debug\netcoreapp3.1\CustomGenericMethods.pdb
+C:\Users\Rocket\source\repos\CustomGenericMethods\CustomGenericMethods\obj\Debug\netcoreapp3.1\CustomGenericMethods.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Rocket\source\repos\Delegate\Delegate\bin\Release\netcoreapp3.1\Delegate.exe
+C:\Users\Rocket\source\repos\Delegate\Delegate\bin\Release\netcoreapp3.1\Delegate.deps.json
+C:\Users\Rocket\source\repos\Delegate\Delegate\bin\Release\netcoreapp3.1\Delegate.runtimeconfig.json
+C:\Users\Rocket\source\repos\Delegate\Delegate\bin\Release\netcoreapp3.1\Delegate.runtimeconfig.dev.json
+C:\Users\Rocket\source\repos\Delegate\Delegate\bin\Release\netcoreapp3.1\Delegate.dll
+C:\Users\Rocket\source\repos\Delegate\Delegate\bin\Release\netcoreapp3.1\Delegate.pdb
+C:\Users\Rocket\source\repos\Delegate\Delegate\obj\Release\netcoreapp3.1\Delegate.csprojAssemblyReference.cache
+C:\Users\Rocket\source\repos\Delegate\Delegate\obj\Release\netcoreapp3.1\Delegate.AssemblyInfoInputs.cache
+C:\Users\Rocket\source\repos\Delegate\Delegate\obj\Release\netcoreapp3.1\Delegate.AssemblyInfo.cs
+C:\Users\Rocket\source\repos\Delegate\Delegate\obj\Release\netcoreapp3.1\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Rocket\source\repos\Delegate\Delegate\obj\Release\netcoreapp3.1\Delegate.dll
+C:\Users\Rocket\source\repos\Delegate\Delegate\obj\Release\netcoreapp3.1\Delegate.pdb
+C:\Users\Rocket\source\repos\Delegate\Delegate\obj\Release\netcoreapp3.1\Delegate.genruntimeconfig.cache
