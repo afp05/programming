@@ -1,0 +1,13 @@
+C:\Users\Rocket\source\repos\InterFaceHierarchy\InterFaceHierarchy\bin\Debug\netcoreapp3.1\InterFaceHierarchy.exe
+C:\Users\Rocket\source\repos\InterFaceHierarchy\InterFaceHierarchy\bin\Debug\netcoreapp3.1\InterFaceHierarchy.deps.json
+C:\Users\Rocket\source\repos\InterFaceHierarchy\InterFaceHierarchy\bin\Debug\netcoreapp3.1\InterFaceHierarchy.runtimeconfig.json
+C:\Users\Rocket\source\repos\InterFaceHierarchy\InterFaceHierarchy\bin\Debug\netcoreapp3.1\InterFaceHierarchy.runtimeconfig.dev.json
+C:\Users\Rocket\source\repos\InterFaceHierarchy\InterFaceHierarchy\bin\Debug\netcoreapp3.1\InterFaceHierarchy.dll
+C:\Users\Rocket\source\repos\InterFaceHierarchy\InterFaceHierarchy\bin\Debug\netcoreapp3.1\InterFaceHierarchy.pdb
+C:\Users\Rocket\source\repos\InterFaceHierarchy\InterFaceHierarchy\obj\Debug\netcoreapp3.1\InterFaceHierarchy.csprojAssemblyReference.cache
+C:\Users\Rocket\source\repos\InterFaceHierarchy\InterFaceHierarchy\obj\Debug\netcoreapp3.1\InterFaceHierarchy.AssemblyInfoInputs.cache
+C:\Users\Rocket\source\repos\InterFaceHierarchy\InterFaceHierarchy\obj\Debug\netcoreapp3.1\InterFaceHierarchy.AssemblyInfo.cs
+C:\Users\Rocket\source\repos\InterFaceHierarchy\InterFaceHierarchy\obj\Debug\netcoreapp3.1\InterFaceHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Rocket\source\repos\InterFaceHierarchy\InterFaceHierarchy\obj\Debug\netcoreapp3.1\InterFaceHierarchy.dll
+C:\Users\Rocket\source\repos\InterFaceHierarchy\InterFaceHierarchy\obj\Debug\netcoreapp3.1\InterFaceHierarchy.pdb
+C:\Users\Rocket\source\repos\InterFaceHierarchy\InterFaceHierarchy\obj\Debug\netcoreapp3.1\InterFaceHierarchy.genruntimeconfig.cache

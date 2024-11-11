@@ -1,0 +1,13 @@
+C:\Users\Rocket\source\repos\InterFaceNameClash\InterFaceNameClash\bin\Debug\netcoreapp3.1\InterFaceNameClash.exe
+C:\Users\Rocket\source\repos\InterFaceNameClash\InterFaceNameClash\bin\Debug\netcoreapp3.1\InterFaceNameClash.deps.json
+C:\Users\Rocket\source\repos\InterFaceNameClash\InterFaceNameClash\bin\Debug\netcoreapp3.1\InterFaceNameClash.runtimeconfig.json
+C:\Users\Rocket\source\repos\InterFaceNameClash\InterFaceNameClash\bin\Debug\netcoreapp3.1\InterFaceNameClash.runtimeconfig.dev.json
+C:\Users\Rocket\source\repos\InterFaceNameClash\InterFaceNameClash\bin\Debug\netcoreapp3.1\InterFaceNameClash.dll
+C:\Users\Rocket\source\repos\InterFaceNameClash\InterFaceNameClash\bin\Debug\netcoreapp3.1\InterFaceNameClash.pdb
+C:\Users\Rocket\source\repos\InterFaceNameClash\InterFaceNameClash\obj\Debug\netcoreapp3.1\InterFaceNameClash.csprojAssemblyReference.cache
+C:\Users\Rocket\source\repos\InterFaceNameClash\InterFaceNameClash\obj\Debug\netcoreapp3.1\InterFaceNameClash.AssemblyInfoInputs.cache
+C:\Users\Rocket\source\repos\InterFaceNameClash\InterFaceNameClash\obj\Debug\netcoreapp3.1\InterFaceNameClash.AssemblyInfo.cs
+C:\Users\Rocket\source\repos\InterFaceNameClash\InterFaceNameClash\obj\Debug\netcoreapp3.1\InterFaceNameClash.csproj.CoreCompileInputs.cache
+C:\Users\Rocket\source\repos\InterFaceNameClash\InterFaceNameClash\obj\Debug\netcoreapp3.1\InterFaceNameClash.dll
+C:\Users\Rocket\source\repos\InterFaceNameClash\InterFaceNameClash\obj\Debug\netcoreapp3.1\InterFaceNameClash.pdb
+C:\Users\Rocket\source\repos\InterFaceNameClash\InterFaceNameClash\obj\Debug\netcoreapp3.1\InterFaceNameClash.genruntimeconfig.cache

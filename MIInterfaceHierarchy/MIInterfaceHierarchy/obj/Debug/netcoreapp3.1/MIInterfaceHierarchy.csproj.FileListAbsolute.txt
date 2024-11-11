@@ -1,0 +1,12 @@
+C:\Users\Rocket\source\repos\MIInterfaceHierarchy\MIInterfaceHierarchy\bin\Debug\netcoreapp3.1\MIInterfaceHierarchy.exe
+C:\Users\Rocket\source\repos\MIInterfaceHierarchy\MIInterfaceHierarchy\bin\Debug\netcoreapp3.1\MIInterfaceHierarchy.deps.json
+C:\Users\Rocket\source\repos\MIInterfaceHierarchy\MIInterfaceHierarchy\bin\Debug\netcoreapp3.1\MIInterfaceHierarchy.runtimeconfig.json
+C:\Users\Rocket\source\repos\MIInterfaceHierarchy\MIInterfaceHierarchy\bin\Debug\netcoreapp3.1\MIInterfaceHierarchy.runtimeconfig.dev.json
+C:\Users\Rocket\source\repos\MIInterfaceHierarchy\MIInterfaceHierarchy\bin\Debug\netcoreapp3.1\MIInterfaceHierarchy.dll
+C:\Users\Rocket\source\repos\MIInterfaceHierarchy\MIInterfaceHierarchy\bin\Debug\netcoreapp3.1\MIInterfaceHierarchy.pdb
+C:\Users\Rocket\source\repos\MIInterfaceHierarchy\MIInterfaceHierarchy\obj\Debug\netcoreapp3.1\MIInterfaceHierarchy.AssemblyInfoInputs.cache
+C:\Users\Rocket\source\repos\MIInterfaceHierarchy\MIInterfaceHierarchy\obj\Debug\netcoreapp3.1\MIInterfaceHierarchy.AssemblyInfo.cs
+C:\Users\Rocket\source\repos\MIInterfaceHierarchy\MIInterfaceHierarchy\obj\Debug\netcoreapp3.1\MIInterfaceHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Rocket\source\repos\MIInterfaceHierarchy\MIInterfaceHierarchy\obj\Debug\netcoreapp3.1\MIInterfaceHierarchy.dll
+C:\Users\Rocket\source\repos\MIInterfaceHierarchy\MIInterfaceHierarchy\obj\Debug\netcoreapp3.1\MIInterfaceHierarchy.pdb
+C:\Users\Rocket\source\repos\MIInterfaceHierarchy\MIInterfaceHierarchy\obj\Debug\netcoreapp3.1\MIInterfaceHierarchy.genruntimeconfig.cache
